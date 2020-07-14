@@ -1,2 +1,16 @@
-/**/
+.nav-wrapper
+{
+  background-color: black;
 
+}
+
+#cep, #buscar
+{
+  margin-top: 50px;
+}
+
+#dados
+{
+  font-size: 20px;
+  margin-top: 50px;
+}
